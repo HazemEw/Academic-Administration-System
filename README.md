@@ -5,5 +5,5 @@ This project is an Academic Administration System designed to manage student gra
 
 ## Installation
 - Python 3.6 or higher
--Clone the repository
-  - git clone https://github.com/HazemEW/academic-administration-system.git
+- Clone the repository
+- git clone https://github.com/HazemEW/academic-administration-system.git
